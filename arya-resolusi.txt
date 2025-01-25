@@ -1,0 +1,9 @@
+Halo pak,
+
+Salam kenal, nama saya arya saya adalah seoarang siswa smk kelas 12 PPLG 1.
+
+Resolusi 2025 saya:
+- Mahir laravel dan ekosistemnya 
+- Bisa menerapkan best practice seperti design pattern dalam pembuatan aplikasi
+- Dan bisa memiliki semua skill yang menjadi di butuhkan perusahaan
+- Bisa bekerja secara remote sebagai programmer
